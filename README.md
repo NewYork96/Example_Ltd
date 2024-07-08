@@ -1,2 +1,2 @@
 # Example_Ltd
-This project was my PHP exam.
+This is PHP practising programme.
